@@ -1,0 +1,6 @@
+1) Git---->
+	i) how to upload a folder in github. but i didn't 	get in that success.
+
+2)ORAD---->
+	i) Clone the ORAD into local repo and going 	through each file. and try to read that file and 	trying to know why they created this file.
+	ii)Watched the recordings and i get the idea about 	it.
