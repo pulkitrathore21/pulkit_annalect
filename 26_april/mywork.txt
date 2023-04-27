@@ -1,0 +1,7 @@
+github--->
+	i)remote repositories-->
+			1)get fetch
+
+2)ORAD-->
+	i)went through the files and try to understand 	about builtin libraries.
+	ii)try to install requirement.txt it occurs some 	error.
