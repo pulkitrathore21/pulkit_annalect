@@ -1,0 +1,8 @@
+Github-->
+	i)I learn about the Github commands how to merge 	two branches.
+	ii)Trying to understand about the remote repositories commands .
+ORAD-->
+	i)I go through the file of Annalect report builder 	and i go through the src/app/dashboard.py and what 	API in that file and try to understand that.
+	ii)
+
+
