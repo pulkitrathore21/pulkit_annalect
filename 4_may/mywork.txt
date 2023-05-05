@@ -1,0 +1,6 @@
+ORAD-->
+	i)Hitting the api's through the postman by using cookies.
+	ii)try to run my project but still not getting any solution.So trying.
+
+Python->
+	i)try to understand about the upsert cammand.
