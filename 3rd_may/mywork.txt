@@ -1,0 +1,5 @@
+1)ORAD--->
+	i)went through config 
+	ii)went through the auth
+
+2)Pagination
