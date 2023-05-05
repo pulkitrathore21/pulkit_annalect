@@ -1,0 +1,4 @@
+1)ORAD--
+	i) going through the config.py	serverbase,serverdev,serverprod.serverqa,serverst'
+2)Github--
+	i)git restore related commands.
